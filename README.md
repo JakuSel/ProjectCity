@@ -1,5 +1,5 @@
 # ProjektCity
-Angular Applicaion of weather
+Weather application with Angular.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
 ## Development server
