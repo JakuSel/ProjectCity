@@ -1,0 +1,11 @@
+p,.user-list{
+    border: 1px solid orange;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.cityBox{
+    background: silver;
+    margin: 20px 0;
+    padding: 10px;
+}
